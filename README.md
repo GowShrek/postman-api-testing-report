@@ -12,7 +12,8 @@
 - **Status Code:** 200 OK
 - **Mô tả:** Trả về danh sách 100 bài viết
 
-![GET Request](images/get-posts.png)
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/52461abf-0683-4cb5-a21a-33d49a79941a" />
+
 
 ---
 
