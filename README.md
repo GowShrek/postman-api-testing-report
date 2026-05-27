@@ -21,7 +21,7 @@
 - **URL:** `GET https://jsonplaceholder.typicode.com/posts/1`
 - **Status Code:** 200 OK
 
-![GET by ID](images/get-post-id.png)
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/738ae16e-3ce1-440b-aead-c4a4a6326618" />
 
 ---
 
@@ -37,7 +37,8 @@
 ```
 - **Status Code:** 201 Created
 
-![POST Request](images/post-create.png)
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/208c0fc4-0bf7-4429-bf07-667fac87809a" />
+
 
 ---
 
@@ -45,7 +46,8 @@
 - **URL:** `PUT https://jsonplaceholder.typicode.com/posts/1`
 - **Status Code:** 200 OK
 
-![PUT Request](images/put-update.png)
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/edaf732f-4f5e-4153-88f5-b670381d4552" />
+
 
 ---
 
@@ -53,7 +55,8 @@
 - **URL:** `DELETE https://jsonplaceholder.typicode.com/posts/1`
 - **Status Code:** 200 OK
 
-![DELETE Request](images/delete-post.png)
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/ffc4bf6b-1f5e-40ab-ab6c-eeddb926f862" />
+
 
 ## 3. Kết luận
 - Đã thực hành thành công các thao tác CRUD qua Postman
